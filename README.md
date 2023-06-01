@@ -1,11 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Akteruzzaman Ashik</h1>
 <h3 align="center">Passionate frontend development & UI UX Designer </h3>
-
-[<div class="tenor-gif-embed" data-postid="11632050" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/all-the-best-gif-11632050">All The Best GIF</a>from <a href="https://tenor.com/search/all+the+best-gifs">All The Best GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>](https://tenor.com/WYbS.gif)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=akter-ashik" alt="akter-ashik" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
