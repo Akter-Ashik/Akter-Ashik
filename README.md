@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akteruzzaman Ashik</h1>
 <h3 align="center">Passionate frontend development & UI UX Designer </h3>
 
-<img align="right" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<div class="tenor-gif-embed" data-postid="11632050" data-share-method="host" data-aspect-ratio="1.79856" data-width="100%"><a href="https://tenor.com/view/all-the-best-gif-11632050">All The Best GIF</a>from <a href="https://tenor.com/search/all+the+best-gifs">All The Best GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=akter-ashik" alt="akter-ashik" /></a> </p>
 
