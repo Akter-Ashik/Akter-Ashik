@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akteruzzaman Ashik</h1>
 <h3 align="center">Passionate frontend development & UI UX Designer </h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<img align="right" width="400" src="https://tenor.com/view/programmer-gif-19019116">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=akter-ashik" alt="akter-ashik" /></a> </p>
 
